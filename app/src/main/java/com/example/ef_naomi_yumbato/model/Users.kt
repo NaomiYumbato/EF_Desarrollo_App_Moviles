@@ -8,7 +8,7 @@ data class Users(
     var role: String,
     var avatar: String,
     var creationAt: String,
-    var updateAt: String
+    var updatedAt: String
 ) {
     constructor() : this(
         id = 0,
@@ -18,6 +18,6 @@ data class Users(
         role = "",
         avatar = "",
         creationAt = "",
-        updateAt = ""
+        updatedAt = ""
     )
 }
