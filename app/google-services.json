@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "553736417678",
+    "firebase_url": "https://efappmoviles-33845-default-rtdb.firebaseio.com",
+    "project_id": "efappmoviles-33845",
+    "storage_bucket": "efappmoviles-33845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553736417678:android:9c499662ced23a7a1534df",
+        "android_client_info": {
+          "package_name": "com.example.ef_naomi_yumbato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccEMQ9pOcQW-LxwzfXRuioUcDNwVkrEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

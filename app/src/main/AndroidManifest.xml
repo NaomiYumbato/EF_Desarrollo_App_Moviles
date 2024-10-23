@@ -22,6 +22,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".UserDetailsActivity"></activity>
+        <activity android:name=".FindUserActivity"></activity>
     </application>
 
 </manifest>

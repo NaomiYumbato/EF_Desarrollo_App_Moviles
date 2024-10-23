@@ -27,6 +27,12 @@ class MainActivity : AppCompatActivity(), UsersAdapter.OnUserClickListener {
         binding.recyclerView.adapter = userAdapter
 
         getUsers()
+
+        binding.btnConsultar.setOnClickListener {
+            val intent = Intent(this, FindUserActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 
     private fun getUsers() {
